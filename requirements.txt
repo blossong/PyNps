@@ -1,0 +1,3 @@
+# streamlit에 기본 제공되지 않으므로 설치 필요 
+matplotlib==3.10.0
+seaborn==0.13.2
